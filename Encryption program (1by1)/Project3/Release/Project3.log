@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\user\source\repos\project3\project3\code\code\encode.cpp(39): warning C4838: conversion from 'int' to 'unsigned char' requires a narrowing conversion
+c:\users\user\source\repos\project3\project3\code\corefunctions.cpp(51): warning C4244: 'initializing': conversion from 'std::streamoff' to 'long', possible loss of data
+c:\users\user\source\repos\project3\project3\code\corefunctions.cpp(75): warning C4244: 'initializing': conversion from 'std::streamsize' to 'size_t', possible loss of data
+c:\users\user\source\repos\project3\project3\code\corefunctions.cpp(104): warning C4244: 'initializing': conversion from 'std::streamsize' to 'size_t', possible loss of data
+  Generating code
+  0 of 418 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project3.vcxproj -> C:\Users\user\source\repos\Project3\Release\Project3.exe
